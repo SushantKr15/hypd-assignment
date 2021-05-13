@@ -3,7 +3,7 @@
 [Deployment link](https://hypd-market-place.herokuapp.com/)
 
 
-###How to run project on local server
+## How to run project on local server
 
 1. Create new python environment
 ```
